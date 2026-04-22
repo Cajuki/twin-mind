@@ -1,4 +1,4 @@
-import SuggestionCard from './SuggestionCard'
+import SuggestionCard from './suggestioncard'
 
 const S = {
   col: { display: 'flex', flexDirection: 'column', height: '100%', overflow: 'hidden' },
